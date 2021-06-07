@@ -26,8 +26,17 @@ lists:
   * spinach
   * onions      
 ....................
-[text to display](url or link)
+
+[text to display](url)
 
 [Google](https://www.google.com/)
 
 .....................
+
+image dispalying
+
+![text to display](url)
+
+![tajmahal](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)
+
+.............................
