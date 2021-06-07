@@ -24,4 +24,4 @@ lists:
   * potato
   * tomatos
   * spinach
-  * oions      
+  * onions      
