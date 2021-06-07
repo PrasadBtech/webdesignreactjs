@@ -6,3 +6,6 @@ React js
 .
 ###### heading 7
 ....
+*This is italic type of fontstyle*
+**This is bold type of fontstyle**
+***This is both type of fontstyle***
