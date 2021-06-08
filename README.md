@@ -56,3 +56,6 @@ Language coding in git
 def class():
    print("Hello")
 ```   
+....................
+
+we cant add empty folder to git  but we can add empty file to git
